@@ -18,3 +18,6 @@ I wasn't able to attend the lab period, so I used the below resources to complet
 | Student Name | CCID      |
 | ------------ | --------- |
 | `N/A`    | `N/A` |
+
+# Other note 
+In the previous lab I think I was able to add my whole project to the repo by attaching Android Studio's VC to this repo, I couldn't figure out exactly how to do that again, so I just uploaded the `main` directory, hoping that's ok.
